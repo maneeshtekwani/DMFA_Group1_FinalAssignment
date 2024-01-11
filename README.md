@@ -1,6 +1,6 @@
 # DNSC 6305: Data Management for Analytics Final Project- Group 1
 
-## Ask 1 - Searching and Identifying a Dataset to Analyze
+## Searching and Identifying a Dataset to Analyze
 * Identify and describe your dataset
 * Identify dataset source
 * Why is important and what appeals to you about it
